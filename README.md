@@ -1,1 +1,1 @@
-Computer Engineer, Web and Android developer.
+Computer Engineer.
