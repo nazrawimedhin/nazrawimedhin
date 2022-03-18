@@ -1,1 +1,1 @@
-Computer Engineering student
+Computer Engineer
