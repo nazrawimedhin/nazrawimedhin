@@ -1,4 +1,4 @@
-<img src="https://github.com/nazrawimedhin/nazrawimedhin/blob/main/banner.png"/>
+<img src="https://github.com/nazrawimedhin/nazrawimedhin/blob/main/banner.jpg"/>
 
 My Name is [Nazrawi](https://linktr.ee/nazrawi). I am a Software Engineer with interest in Web Development and solving real-world problems with technology. Exploring information technology advancements and personal development through books. Writes technical and non-technical articles in Hashnode ([@nazrawi](https://nazrawi.hashnode.dev/)) and in Medium ([@nazrawimedhin](https://nazrawimedhin.medium.com/)).<br/>
 Ask me anything [here](https://github.com/nazrawimedhin/nazrawimedhin/issues?q=is%3Aissue+is%3Aopen).
