@@ -1,14 +1,13 @@
 <img src="https://github.com/nazrawimedhin/nazrawimedhin/blob/main/banner.png"/>
 
 A Front-End Developer With good knowledge of Front-End technologies and a decent amount of experience in developing web applications.
+I am a fast learner, constantly trying to keep up with new trends, and open to learning new technologies.
 
 <div align="center">
   <p>
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
     <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-    <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   </p>
 
