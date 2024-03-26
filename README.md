@@ -1,7 +1,6 @@
 <img src="https://github.com/nazrawimedhin/nazrawimedhin/blob/main/banner.png"/>
 
-My Name is [Nazrawi](https://linktr.ee/nazrawi). I am a Software Engineer with interests in Web Development and solving real-world problems with technology. Exploring information technology advancements and personal development through books. Writes articles in Linkedin ([@nazrawimedhin](https://linkedin.com/in/nazrawimedhin/)) and in Medium ([@nazrawimedhin](https://nazrawimedhin.medium.com/)).<br/>
-Ask me anything [here](https://github.com/nazrawimedhin/nazrawimedhin/issues?q=is%3Aissue+is%3Aopen).
+A Front-End Developer With good knowledge of Front-End technologies and a decent amount of experience in developing web applications.
 
 <div align="center">
   <p>
@@ -21,7 +20,7 @@ Ask me anything [here](https://github.com/nazrawimedhin/nazrawimedhin/issues?q=i
   </a>
 
   <p>
-    <a href="https://twitter.com/MedhinNazrawi" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/nazrawimedhin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://twitter.com/MedhinNazrawi" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   </p>
 </div>
